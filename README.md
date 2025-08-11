@@ -1,0 +1,2 @@
+# FXSignals
+FX Trading Dashboard
